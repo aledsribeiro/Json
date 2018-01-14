@@ -1,0 +1,9 @@
+C:\Users\aleds\Documents\Visual Studio 2017\Projects\Json\Json\bin\Debug\Json.exe.config
+C:\Users\aleds\Documents\Visual Studio 2017\Projects\Json\Json\bin\Debug\Json.exe
+C:\Users\aleds\Documents\Visual Studio 2017\Projects\Json\Json\bin\Debug\Json.pdb
+C:\Users\aleds\Documents\Visual Studio 2017\Projects\Json\Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aleds\Documents\Visual Studio 2017\Projects\Json\Json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aleds\Documents\Visual Studio 2017\Projects\Json\Json\obj\Debug\Json.csprojResolveAssemblyReference.cache
+C:\Users\aleds\Documents\Visual Studio 2017\Projects\Json\Json\obj\Debug\Json.csproj.CoreCompileInputs.cache
+C:\Users\aleds\Documents\Visual Studio 2017\Projects\Json\Json\obj\Debug\Json.exe
+C:\Users\aleds\Documents\Visual Studio 2017\Projects\Json\Json\obj\Debug\Json.pdb
